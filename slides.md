@@ -1,5 +1,5 @@
-% Du markdown au beamer
-% Romain Vimont (®om)
+% Titre
+% Auteur
 % 15 février 2014
 
 # Pourquoi ?
@@ -180,3 +180,13 @@ pour beamer
   ~ <http://johnmacfarlane.net/pandoc/demo/example9/producing-slide-shows-with-pandoc.html>
 en français
   ~ <http://enacit1.epfl.ch/markdown-pandoc/>
+
+# Menu x
+
+## dd
+
+# Menu xx
+
+## dd
+
+ff
