@@ -1,3 +1,9 @@
+---
+output: 
+  beamer_presentation:
+classoption: "aspectratio=169"
+---
+
 % Titre
 % Auteur
 % 15 février 2014
