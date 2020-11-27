@@ -24,3 +24,11 @@ See: <http://blog.rom1v.com/2014/02/des-slides-beamer-en-markdown/>
 
  * Edit `slides.md`;
  * Change the logos and colors in `beamerthemeCustom.sty`.
+
+### yaml
+
+```
+output: 
+  beamer_presentation:
+classoption: "aspectratio=169"
+```
