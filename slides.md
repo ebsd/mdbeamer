@@ -1,12 +1,16 @@
 ---
+# vider le contenu de title, author et date pour une première page vide
+title: ""
+author: ""
+date: ""
 output: 
   beamer_presentation:
 classoption: "aspectratio=169"
 ---
 
-% Titre
-% Auteur
-% 15 février 2014
+<!-- 1ere slide image de presentation
+![](presentation-hug.jpg)
+-->
 
 # Pourquoi ?
 
