@@ -28,6 +28,10 @@ See: <http://blog.rom1v.com/2014/02/des-slides-beamer-en-markdown/>
 ### yaml
 
 ```
+# vider le contenu de title, authors et date pour une première page vide
+title: "Titre"
+author: "Auteur"
+date: "xx.xx.20xx"
 output: 
   beamer_presentation:
 classoption: "aspectratio=169"
