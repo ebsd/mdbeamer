@@ -9,7 +9,7 @@ classoption: "aspectratio=169"
 ---
 
 <!-- 1ere slide image de presentation
-![](presentation-hug.jpg)
+![](~/Pictures/presentation-hug.jpg)
 -->
 
 # Pourquoi ?
@@ -191,12 +191,3 @@ pour beamer
 en français
   ~ <http://enacit1.epfl.ch/markdown-pandoc/>
 
-# Menu x
-
-## dd
-
-# Menu xx
-
-## dd
-
-ff
