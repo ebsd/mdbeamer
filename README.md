@@ -36,3 +36,15 @@ output:
   beamer_presentation:
 classoption: "aspectratio=169"
 ```
+
+# Gérer les fontsize par slide
+
+```
+# Texte
+\fontsize{6pt}{7.2}\selectfont
+
+# Pour les nested lists :
+
+\setbeamertemplate{itemize/enumerate body begin}{\scriptsize}
+\setbeamertemplate{itemize/enumerate subbody begin}{\scriptsize}
+```
