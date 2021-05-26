@@ -1,5 +1,5 @@
 This is a base template for generating *Beamer* presentations from *Markdown*
-source, with a custom theme.
+output: 
 
 See: <http://blog.rom1v.com/2014/02/des-slides-beamer-en-markdown/>
 
@@ -37,7 +37,7 @@ output:
 classoption: "aspectratio=169"
 ```
 
-# Gérer les fontsize par slide
+## Gérer les fontsize par slide
 
 ```
 # Texte
@@ -47,4 +47,9 @@ classoption: "aspectratio=169"
 
 \setbeamertemplate{itemize/enumerate body begin}{\scriptsize}
 \setbeamertemplate{itemize/enumerate subbody begin}{\scriptsize}
+
+# ou encore (pour les fenced codes par exemple)
+\tiny
+## suivi de
+\normalsize
 ```
