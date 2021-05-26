@@ -9,7 +9,7 @@ classoption: "aspectratio=169"
 ---
 
 <!-- 1ere slide image de presentation
-![](~/Pictures/presentation-hug.jpg)
+![](/home/ebsd/Pictures/presentation-hug.jpg)
 -->
 
 # Pourquoi ?
